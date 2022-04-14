@@ -6,3 +6,5 @@ Predicting the value of used cars using Machine Learning
 - Train and test Multiple Linear Regression and Random Forest Tree models
 
 # Work in progress...
+
+Main file : cleanData.ipynb
