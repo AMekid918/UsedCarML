@@ -7,4 +7,4 @@ Predicting the value of used cars using Machine Learning
 
 # Work in progress...
 
-Main file : cleanData.ipynb
+Main file : machineLearning.ipynb
